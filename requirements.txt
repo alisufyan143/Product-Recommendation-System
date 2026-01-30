@@ -31,7 +31,7 @@ bleach==6.1.0
 blinker==1.4
 blis==0.7.11
 blosc2==2.0.0
-bokeh==3.4.3
+bokeh==3.8.2
 bqplot==0.12.43
 branca==0.7.2
 build==1.2.1
