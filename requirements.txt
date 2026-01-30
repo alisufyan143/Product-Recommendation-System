@@ -76,7 +76,7 @@ dbus-python==1.2.18
 debugpy==1.6.6
 decorator==4.4.2
 defusedxml==0.7.1
-distributed==2024.7.1
+distributed==2026.1.0
 distro==1.7.0
 dlib==19.24.2
 dm-tree==0.1.8
