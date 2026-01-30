@@ -396,7 +396,7 @@ scs==3.2.6
 seaborn==0.13.1
 SecretStorage==3.3.1
 Send2Trash==1.8.3
-sentencepiece==0.1.99
+sentencepiece==0.2.1
 shapely==2.0.5
 shellingham==1.5.4
 simple_parsing==0.1.5
