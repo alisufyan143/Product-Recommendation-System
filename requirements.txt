@@ -240,7 +240,7 @@ logical-unification==0.4.6
 lxml==4.9.4
 malloy==2024.1089
 marisa-trie==1.2.0
-Markdown==3.6
+Markdown==3.8.1
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.7.1
