@@ -356,7 +356,7 @@ pymc==5.10.4
 pymystem3==0.2.0
 pynvjitlink-cu12==0.3.0
 PyOpenGL==3.1.7
-pyOpenSSL==24.2.1
+pyOpenSSL==26.0.0
 pyparsing==3.1.2
 pyperclip==1.9.0
 pyproj==3.6.1
