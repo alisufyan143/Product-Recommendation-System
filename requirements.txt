@@ -427,7 +427,7 @@ sqlparse==0.5.1
 srsly==2.4.8
 stanio==0.5.1
 statsmodels==0.14.2
-streamlit==1.37.1
+streamlit==1.54.0
 StrEnum==0.4.15
 sympy==1.13.1
 tables==3.8.0
